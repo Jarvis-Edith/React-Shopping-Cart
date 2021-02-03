@@ -28,8 +28,51 @@ We suggest that you begin by typing:
   npm start
 
 Happy hacking!
-
 ----------------------------------------------------------------------------------------
 
 To Install Core Material Design: 
 	npm i @material-ui/core @material-ui/icons
+
+After installed, will see the below details
+
+ent: {"os":"win32","arch":"x64"})
+
++ @material-ui/icons@4.11.2
++ @material-ui/core@4.11.3
+added 29 packages from 21 contributors and audited 1970 packages in 34.643s
+----------------------------------------------------------------------------------------
+
+To Install: react query
+	npm i react-query
+
+After Installed, Will see the below details
+
++ react-query@3.6.0
+added 3 packages from 6 contributors and audited 1974 packages in 23.774
+----------------------------------------------------------------------------------------
+
+To Install Style Components
+	npm i styled-components @types/styled-components
+
+After Installed, Will see the below details
+
+ent: {"os":"win32","arch":"x64"})
+
++ styled-components@5.2.1
++ @types/styled-components@5.1.7
+added 13 packages from 22 contributors and audited 1987 packages in 23.556s
+----------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------
+
+
+
+
+----------------------------------------------------------------------------------------
+
+
+
+
+----------------------------------------------------------------------------------------
