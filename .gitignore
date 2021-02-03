@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/react-shopping-cart-workspace.code-workspace
 # testing
 /coverage
 

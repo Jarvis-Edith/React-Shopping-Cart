@@ -63,7 +63,7 @@ ent: {"os":"win32","arch":"x64"})
 added 13 packages from 22 contributors and audited 1987 packages in 23.556s
 ----------------------------------------------------------------------------------------
 
-
+In this application, we are going to use Fake Store API
 
 ----------------------------------------------------------------------------------------
 
